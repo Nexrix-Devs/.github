@@ -31,7 +31,7 @@ Nexrix is a community where young builders **learn, create, collaborate and inno
 | Role | Name |
 |---|---|
 | 🌱 Founder | **Gaurab Pantha** |
-| 🧭 Leader | **Bishwo Gyawali** |
+| 🧭 Leader | **Gaurab Pantha** |
 
 ## 🤝 How to join
 
